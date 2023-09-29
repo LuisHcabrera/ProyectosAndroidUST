@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">act1_5</string>
+    <string name="pantalon_negro_20000">Pantalon Negro $20000</string>
+    <string name="polera_negra_5000">Polera Negra $5000</string>
+    <string name="zapatillas_40000">Zapatillas $40000</string>
+    <string name="camisa_m_15000">Camisa M $15000</string>
+    <string name="accesorios_40000">Accesorios $40000</string>
+    <string name="zapatillas_45000">Zapatillas $45000</string>
+    <string name="bolso_6000">Bolso $6000</string>
+    <string name="calcular">Calcular</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="buzo_25000">Buzo $25000</string>
+    <string name="todo">TODO</string>
+    <string name="retiro_en_tienda">Retiro en tienda</string>
+    <string name="entrega_a_domicilio">Entrega a domicilio</string>
+    <string name="elja_tipo_de_entrega">Elja tipo de entrega:</string>
+    <string name="productos">Productos</string>
+    <string name="total_a_pagar">Total a pagar:</string>
+    <string name="tienda_de_ropa">TIENDA DE ROPA</string>
+    <string name="lleva_el_conjunto_o_prenda_que_elijas">¡Lleva el conjunto o prenda que elijas!</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="password">Password</string>
+    <string name="recordar_contrase_a">Recordar contraseña</string>
+</resources>
